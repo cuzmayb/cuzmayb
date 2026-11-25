@@ -9,11 +9,11 @@ HBM·TSV·TGV 같은 반도체 패키징 공정 문제를 실험과 계산으로
 
 ## 프로젝트
 
-- **[TGV Cu 전해도금 공정 최적화](https://cuzmayb.vercel.app/projects/tgv-copper-filling)**: 초음파 교반을 더해 void 없이 채우는 조건을 찾고, 도금 시간을 12시간에서 11시간으로 줄였습니다.
-- **[HBM Void 검사](https://cuzmayb.vercel.app/projects/hbm-void-thermal)**: 과도 열응답 Zth(t)로 본딩층 void를 찾는 1D 모델입니다. 산포가 없을 때 면적 2.5 %부터 90 % 이상 검출합니다(합성 데이터).
-- **[소재 AI 해커톤](https://cuzmayb.vercel.app/projects/materials-ai-hackathon)**: 화학식과 온도만으로 고체전해질 이온전도도를 예측해 예선 Private 10위 / 34팀으로 본선에 올랐습니다.
+- **[TGV Cu 전해도금 공정 최적화](https://cuzmayb.com/projects/tgv-copper-filling)**: 초음파 교반을 더해 void 없이 채우는 조건을 찾고, 도금 시간을 12시간에서 11시간으로 줄였습니다.
+- **[HBM Void 검사](https://cuzmayb.com/projects/hbm-void-thermal)**: 과도 열응답 Zth(t)로 본딩층 void를 찾는 1D 모델입니다. 산포가 없을 때 면적 2.5 %부터 90 % 이상 검출합니다(합성 데이터).
+- **[소재 AI 해커톤](https://cuzmayb.com/projects/materials-ai-hackathon)**: 화학식과 온도만으로 고체전해질 이온전도도를 예측해 예선 Private 10위 / 34팀으로 본선에 올랐습니다.
 
-전체 목록: [cuzmayb.vercel.app/projects](https://cuzmayb.vercel.app/projects)
+전체 목록: [cuzmayb.com/projects](https://cuzmayb.com/projects)
 
 ## 지금 하는 일 (2026년 11월)
 
@@ -23,7 +23,7 @@ GPU와 HBM 사이에 냉각 수로를 두면 인터포저 신호선이 얼마나
 
 ## 연락
 
-[사이트](https://cuzmayb.vercel.app) · [English](https://cuzmayb.vercel.app/en) · [이력서](https://cuzmayb.vercel.app/resume) · [LinkedIn](https://www.linkedin.com/in/cuzmayb) · cuzmayb@gmail.com
+[사이트](https://cuzmayb.com) · [English](https://cuzmayb.com/en) · [이력서](https://cuzmayb.com/resume) · [LinkedIn](https://www.linkedin.com/in/cuzmayb) · cuzmayb@gmail.com
 
 <!--
 owner: cuzmayb. last reviewed: 2026-11-24.
